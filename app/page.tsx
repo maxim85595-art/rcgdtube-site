@@ -78,12 +78,12 @@ function HomeTab() {
         <Card className="p-8 transition-all duration-300 hover:shadow-lg">
           <div className="prose prose-neutral dark:prose-invert max-w-none">
             <p className="text-lg leading-relaxed text-muted-foreground">
-              Это пространство создано для того, чтобы делиться идеями, творчеством и вдохновением. Здесь вы найдете
-              коллекцию моих работ, мыслей и проектов, которые отражают мой путь в мире цифрового контента.
+              РКГДTUBE - это проект в социальной сети Telegram, который совмещает в себе десятки каналов других креаторов.
+              Это уникальный канал, который помогает начинающим креаторам заполучить внимание и оценку.
             </p>
             <p className="text-lg leading-relaxed text-muted-foreground">
-              Каждый проект — это история, рассказанная через призму творчества и инноваций. Я стремлюсь создавать
-              контент, который не только развлекает, но и вдохновляет аудиторию на новые открытия.
+              В нашем канале существует бот, который помогает скачивать видео из: Yotube, Tiktok
+              А так в недавнем обновлении появилась скачка музыки из: Soundcloud, Spotify.
             </p>
             <p className="text-lg leading-relaxed text-muted-foreground">
               Исследуйте разделы сайта, чтобы узнать больше о моих социальных сетях и получить дополнительную информацию
@@ -119,11 +119,11 @@ function HomeTab() {
 
 function SocialsTab() {
   const socials = [
-    { name: "YouTube", username: "@ркгдtube", color: "from-red-500 to-red-600" },
-    { name: "Telegram", username: "@rkgdtube", color: "from-blue-500 to-blue-600" },
-    { name: "VK", username: "ркгдtube", color: "from-blue-600 to-blue-700" },
-    { name: "Discord", username: "РКГДTUBE#0000", color: "from-indigo-500 to-indigo-600" },
-    { name: "Twitter/X", username: "@rkgdtube", color: "from-gray-700 to-gray-900" },
+    { name: "Telegram", username: "@sssrrxx", color: "from-red-500 to-red-600" },
+    { name: "Telegram", username: "@skkgmd", color: "from-blue-500 to-blue-600" },
+    { name: "Telegram", username: "ркгдtube", color: "from-blue-600 to-blue-700" },
+    { name: "Telegram", username: "@hashinoby", color: "from-indigo-500 to-indigo-600" },
+    { name: "Telegram", username: "@rkgdtube", color: "from-gray-700 to-gray-900" },
   ]
 
   return (
@@ -175,9 +175,8 @@ function InfoTab() {
             <section>
               <h3 className="text-2xl font-semibold mb-3">О проекте</h3>
               <p className="text-lg leading-relaxed text-muted-foreground">
-                РКГДTUBE — это творческая платформа, объединяющая различные формы цифрового искусства и контента. Проект
-                стартовал в 2023 году с целью создания уникального пространства для самовыражения и взаимодействия с
-                аудиторией.
+                РКГДTUBE — это уникальный проект, в котором есть собственный бот и сайт, в котором появятся крутые фишки.
+                Проект стартовал 17 апреля 2025 года. Спасибо, что вы есть!
               </p>
             </section>
 
